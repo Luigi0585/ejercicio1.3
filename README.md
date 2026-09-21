@@ -87,7 +87,7 @@ Enlace [Amazon][aws].
 
 # Imágenes internas
 
-![](images/01.jpg)
+![](main/images/01.jpg)
 
 # Listas
 
